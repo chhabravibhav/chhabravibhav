@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Vibhav Chhabra</h1>
 <h3 align="center">I am a final year B.Tech Computer Science student at The NorthCap University, specializing in Data Science, with hands-on experience as a Data Analyst Intern at Ericsson and a robust portfolio of data-driven projects. With a solid foundation in SQL, Python, and data visualization tools, I am actively seeking opportunities to leverage my analytical skills in the e-commerce or finance sectors.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=coder%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwjR-Zu5746HAxWxj68BHZmBBZQQM3oECGMQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjR-Zu5746HAxWxj68BHZmBBZQQM3oECGMQAA">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/avento.gif">
+
 
 - 🔭 I’m currently working on **Advanced IPO analysis**
 
