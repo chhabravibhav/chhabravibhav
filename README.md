@@ -1,4 +1,4 @@
-<img src="https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" alt="MasterHead" style="width: 100%; height: auto;">
+<img src="https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" alt="MasterHead" style="width: 100%; height: 200;">
 
 
 <h1 align="center">Hi 👋, I'm Vibhav Chhabra</h1>
