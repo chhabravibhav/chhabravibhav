@@ -1,13 +1,8 @@
 <img src="https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" alt="MasterHead" style="width: 100%; height: 200px;">
 
 
-
 <h1 align="center">Hi 👋, I'm Vibhav Chhabra</h1>
 <h3 align="center">I am a final year B.Tech Computer Science student at The NorthCap University, specializing in Data Science, with hands-on experience as a Data Analyst Intern at Ericsson and a robust portfolio of data-driven projects. With a solid foundation in SQL, Python, and data visualization tools, I am actively seeking opportunities to leverage my analytical skills in the e-commerce or finance sectors.</h3>
-
-<img src="https://images.ctfassets.net/lzny33ho1g45/k7cBInwZ11CPIb5LFFnhQ/00a6ef4680bdb8fa9ef9001cd33879d2/data-analysis-process.png?w=1400&fm=avif" alt="Data Analysis Process">
-
-
 
 
 - 🔭 I’m currently working on **Advanced IPO analysis**
