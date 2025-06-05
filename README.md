@@ -5,7 +5,7 @@
 <h3 align="center">I am a final year B.Tech Computer Science student at The NorthCap University, specializing in Data Science, with hands-on experience as a Data Analyst Intern at Ericsson and a robust portfolio of data-driven projects. With a solid foundation in SQL, Python, and data visualization tools, I am actively seeking opportunities to leverage my analytical skills in the e-commerce or finance sectors.</h3>
 
 
-- 🔭 I’m currently working on **Advanced IPO analysis**
+- 🔭 I’m currently working on **Real-time Image generation**
 
 - 💬 Ask me about **Python, SQL, PowerBI, Excel, Tableau**
 
